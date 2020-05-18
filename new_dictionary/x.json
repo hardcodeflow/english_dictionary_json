@@ -1,0 +1,1499 @@
+{
+    "x": {
+        "dcitionaryWordId": "683285ec2cc2e9ef27",
+        "wordEnglishLevel": "IntermediateEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780515ec2cc2e9ef34",
+                "dictionaryMeaningText": "X, the twenty-fourth letter of the English alphabet, has three sounds; a compound nonvocal sound (that of ks), as in wax; a compound vocal sound (that of gz), as in example; and, at the beginning of a word, a simple vocal sound (that of z), as in xanthic. See Guide to Pronunciation, \/\/ 217, 270, 271.",
+                "wordType": "Undefined"
+            }
+        ]
+    },
+    "xanthamide": {
+        "dcitionaryWordId": "683285ec2cc2e9ef47",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780525ec2cc2e9ef8f",
+                "dictionaryMeaningText": "An amido derivative of xanthic acid obtained as a white crystalline substance, C2H5O.CS.NH2; -- called also xanthogen amide.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthate": {
+        "dcitionaryWordId": "683285ec2cc2e9efa1",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780535ec2cc2e9efd4",
+                "dictionaryMeaningText": "A salt of xanthic; a xanthogenate.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthelasma": {
+        "dcitionaryWordId": "683285ec2cc2e9efe2",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780545ec2cc2e9f000",
+                "dictionaryMeaningText": "See Xanthoma.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthian": {
+        "dcitionaryWordId": "683285ec2cc2e9f00d",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780555ec2cc2e9f03c",
+                "dictionaryMeaningText": "Of or pertaining to Xanthus, an ancient town on Asia Minor; -- applied especially to certain marbles found near that place, and now in the British Museum.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthic": {
+        "dcitionaryWordId": "683305ec2cc2e9f0ec",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780565ec2cc2e9f074",
+                "dictionaryMeaningText": "Tending toward a yellow color, or to one of those colors, green being excepted, in which yellow is a constituent, as scarlet, orange, etc.",
+                "wordType": "Adjective"
+            },
+            {
+                "dictionaryWordMeaningId": "1780575ec2cc2e9f0aa",
+                "dictionaryMeaningText": "Possessing, imparting, or producing a yellow color; as, xanthic acid.",
+                "wordType": "Adjective"
+            },
+            {
+                "dictionaryWordMeaningId": "1780585ec2cc2e9f0df",
+                "dictionaryMeaningText": "Of or pertaining to xanthic acid, or its compounds; xanthogenic.",
+                "wordType": "Adjective"
+            },
+            {
+                "dictionaryWordMeaningId": "1780595ec2cc2e9f114",
+                "dictionaryMeaningText": "Of or pertaining to xanthin.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthide": {
+        "dcitionaryWordId": "683315ec2cc2e9f120",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780605ec2cc2e9f147",
+                "dictionaryMeaningText": "A compound or derivative of xanthogen.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthidia": {
+        "dcitionaryWordId": "683315ec2cc2e9f154",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780615ec2cc2e9f179",
+                "dictionaryMeaningText": "of Xanthidium",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xanthidium": {
+        "dcitionaryWordId": "683315ec2cc2e9f187",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780625ec2cc2e9f1a7",
+                "dictionaryMeaningText": "A genus of minute unicellular algae of the desmids. These algae have a rounded shape and are armed with glochidiate or branched aculei. Several species occur in ditches, and others are found fossil in flint or hornstone.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthin": {
+        "dcitionaryWordId": "683325ec2cc2e9f220",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780635ec2cc2e9f1de",
+                "dictionaryMeaningText": "A crystalline nitrogenous body closely related to both uric acid and hypoxanthin, present in muscle tissue, and occasionally found in the urine and in some urinary calculi. It is also present in guano. So called from the yellow color of certain of its salts (nitrates).",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1780645ec2cc2e9f213",
+                "dictionaryMeaningText": "A yellow insoluble coloring matter extracted from yellow flowers; specifically, the coloring matter of madder.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1780655ec2cc2e9f248",
+                "dictionaryMeaningText": "One of the gaseous or volatile decomposition products of the xanthates, and probably identical with carbon disulphide.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthinine": {
+        "dcitionaryWordId": "683335ec2cc2e9f255",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780665ec2cc2e9f273",
+                "dictionaryMeaningText": "A complex nitrogenous substance related to urea and uric acid, produced as a white powder; -- so called because it forms yellow salts, and because its solution forms a blue fluorescence like quinine.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthium": {
+        "dcitionaryWordId": "683335ec2cc2e9f280",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780675ec2cc2e9f2a7",
+                "dictionaryMeaningText": "A genus of composite plants in which the scales of the involucre are united so as to form a kind of bur; cocklebur; clotbur.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xantho-": {
+        "dcitionaryWordId": "683335ec2cc2e9f2b4",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780685ec2cc2e9f2de",
+                "dictionaryMeaningText": "A combining form from Gr. xanqo`s yellow; as in xanthocobaltic salts. Used also adjectively in chemistry.",
+                "wordType": "Undefined"
+            }
+        ]
+    },
+    "xanthocarpous": {
+        "dcitionaryWordId": "683335ec2cc2e9f2eb",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780695ec2cc2e9f303",
+                "dictionaryMeaningText": "Having yellow fruit.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthochroi": {
+        "dcitionaryWordId": "683335ec2cc2e9f310",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780705ec2cc2e9f32d",
+                "dictionaryMeaningText": "A division of the Caucasian races, comprising the lighter-colored members.",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xanthochroic": {
+        "dcitionaryWordId": "683335ec2cc2e9f33a",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780715ec2cc2e9f353",
+                "dictionaryMeaningText": "Having a yellowish or fair complexion; of or pertaining to the Xanthochroi.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthodontous": {
+        "dcitionaryWordId": "683335ec2cc2e9f360",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780725ec2cc2e9f379",
+                "dictionaryMeaningText": "Having yellow teeth.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthogen": {
+        "dcitionaryWordId": "683335ec2cc2e9f3b7",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780735ec2cc2e9f3ab",
+                "dictionaryMeaningText": "The hypothetical radical supposed to be characteristic of xanthic acid.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1780745ec2cc2e9f3db",
+                "dictionaryMeaningText": "Persulphocyanogen.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthogenate": {
+        "dcitionaryWordId": "683345ec2cc2e9f3e8",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780755ec2cc2e9f42d",
+                "dictionaryMeaningText": "A salt of xanthic acid.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthogenic": {
+        "dcitionaryWordId": "683345ec2cc2e9f43f",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780765ec2cc2e9f45e",
+                "dictionaryMeaningText": "Producing a yellow color or compound; xanthic. See Xanthic acid, under Xanthic.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthoma": {
+        "dcitionaryWordId": "683345ec2cc2e9f46b",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780775ec2cc2e9f493",
+                "dictionaryMeaningText": "A skin disease marked by the development or irregular yellowish patches upon the skin, especially upon the eyelids; -- called also xanthelasma.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthophane": {
+        "dcitionaryWordId": "683345ec2cc2e9f4a0",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780785ec2cc2e9f4bc",
+                "dictionaryMeaningText": "The yellow pigment present in the inner segments of the retina in animals. See Chromophane.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthophyll": {
+        "dcitionaryWordId": "683345ec2cc2e9f4c9",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780795ec2cc2e9f4e4",
+                "dictionaryMeaningText": "A yellow coloring matter found in yellow autumn leaves, and also produced artificially from chlorophyll; -- formerly called also phylloxanthin.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthopous": {
+        "dcitionaryWordId": "683345ec2cc2e9f4f1",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780805ec2cc2e9f512",
+                "dictionaryMeaningText": "Having a yellow stipe, or stem.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthoproteic": {
+        "dcitionaryWordId": "683345ec2cc2e9f51f",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780815ec2cc2e9f537",
+                "dictionaryMeaningText": "Pertaining to, or derived from, xanthoprotein; showing the characters of xanthoprotein; as, xanthoproteic acid; the xanthoproteic reaction for albumin.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthoprotein": {
+        "dcitionaryWordId": "683345ec2cc2e9f544",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780825ec2cc2e9f55c",
+                "dictionaryMeaningText": "A yellow acid substance formed by the action of hot nitric acid on albuminous or proteid matter. It is changed to a deep orange-yellow color by the addition of ammonia.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthopuccine": {
+        "dcitionaryWordId": "683345ec2cc2e9f56a",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780835ec2cc2e9f581",
+                "dictionaryMeaningText": "One of three alkaloids found in the root of the yellow puccoon (Hydrastis Canadensis). It is a yellow crystalline substance, and resembles berberine.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthorhamnin": {
+        "dcitionaryWordId": "683345ec2cc2e9f58e",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780845ec2cc2e9f5a6",
+                "dictionaryMeaningText": "A glucoside extracted from Persian berries as a yellow crystalline powder, used as a dyestuff.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthorhiza": {
+        "dcitionaryWordId": "683345ec2cc2e9f5b3",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780855ec2cc2e9f5ce",
+                "dictionaryMeaningText": "A genus of shrubby ranunculaceous plants of North America, including only the species Xanthorhiza apiifolia, which has roots of a deep yellow color; yellowroot. The bark is intensely bitter, and is sometimes used as a tonic.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthorhoea": {
+        "dcitionaryWordId": "683345ec2cc2e9f5da",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780865ec2cc2e9f5f5",
+                "dictionaryMeaningText": "A genus of endogenous plants, native to Australia, having a thick, sometimes arborescent, stem, and long grasslike leaves. See Grass tree.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthose": {
+        "dcitionaryWordId": "683345ec2cc2e9f601",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780875ec2cc2e9f628",
+                "dictionaryMeaningText": "An orange-yellow substance found in pigment spots of certain crabs.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthosis": {
+        "dcitionaryWordId": "683345ec2cc2e9f635",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780885ec2cc2e9f658",
+                "dictionaryMeaningText": "The yellow discoloration often observed in cancerous tumors.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthospermous": {
+        "dcitionaryWordId": "683345ec2cc2e9f665",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780895ec2cc2e9f67d",
+                "dictionaryMeaningText": "Having yellow seeds.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthous": {
+        "dcitionaryWordId": "683345ec2cc2e9f689",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780905ec2cc2e9f6b2",
+                "dictionaryMeaningText": "Yellow; specifically (Ethnol.), of or pertaining to those races of man which have yellowish, red, auburn, or brown hair.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xanthoxylene": {
+        "dcitionaryWordId": "683345ec2cc2e9f6be",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780915ec2cc2e9f6d8",
+                "dictionaryMeaningText": "A liquid hydrocarbon of the terpene series extracted from the seeds of a Japanese prickly ash (Xanthoxylum pipertium) as an aromatic oil.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xanthoxylum": {
+        "dcitionaryWordId": "683345ec2cc2e9f6e4",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780925ec2cc2e9f700",
+                "dictionaryMeaningText": "A genus of prickly shrubs or small trees, the bark and rots of which are of a deep yellow color; prickly ash.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xebec": {
+        "dcitionaryWordId": "683345ec2cc2e9f70d",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780935ec2cc2e9f736",
+                "dictionaryMeaningText": "A small three-masted vessel, with projecting bow stern and convex decks, used in the Mediterranean for transporting merchandise, etc. It carries large square sails, or both. Xebecs were formerly armed and used by corsairs.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xeme": {
+        "dcitionaryWordId": "683345ec2cc2e9f744",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780945ec2cc2e9f76b",
+                "dictionaryMeaningText": "An Arctic fork-tailed gull (Xema Sabinii).",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenelasia": {
+        "dcitionaryWordId": "683345ec2cc2e9f778",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780955ec2cc2e9f79a",
+                "dictionaryMeaningText": "A Spartan institution which prohibited strangers from residing in Sparta without permission, its object probably being to preserve the national simplicity of manners.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenia": {
+        "dcitionaryWordId": "683345ec2cc2e9f7a6",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780965ec2cc2e9f7cf",
+                "dictionaryMeaningText": "of Xenium",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xenium": {
+        "dcitionaryWordId": "683345ec2cc2e9f7db",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780975ec2cc2e9f80a",
+                "dictionaryMeaningText": "A present given to a guest or stranger, or to a foreign ambassador.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenodochium": {
+        "dcitionaryWordId": "683345ec2cc2e9f83f",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1780985ec2cc2e9f832",
+                "dictionaryMeaningText": "A house for the reception of strangers.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1780995ec2cc2e9f85a",
+                "dictionaryMeaningText": "In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also Xenodocheion.]",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenodochy": {
+        "dcitionaryWordId": "683355ec2cc2e9f866",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781005ec2cc2e9f88a",
+                "dictionaryMeaningText": "Reception of strangers; hospitality.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenogamy": {
+        "dcitionaryWordId": "683355ec2cc2e9f897",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781015ec2cc2e9f8be",
+                "dictionaryMeaningText": "Cross fertilization.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenogenesis": {
+        "dcitionaryWordId": "683355ec2cc2e9f8f5",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781025ec2cc2e9f8e7",
+                "dictionaryMeaningText": "Same as Heterogenesis.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781035ec2cc2e9f910",
+                "dictionaryMeaningText": "The fancied production of an organism of one kind by an organism of another.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenogenetic": {
+        "dcitionaryWordId": "683365ec2cc2e9f91d",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781045ec2cc2e9f938",
+                "dictionaryMeaningText": "Of or pertaining to xenogenesis; as, the xenogenetic origin of microzymes.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xenomania": {
+        "dcitionaryWordId": "683365ec2cc2e9f945",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781055ec2cc2e9f969",
+                "dictionaryMeaningText": "A mania for, or an inordinate attachment to, foreign customs, institutions, manners, fashions, etc.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenomi": {
+        "dcitionaryWordId": "683365ec2cc2e9f976",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781065ec2cc2e9f9a1",
+                "dictionaryMeaningText": "A suborder of soft-rayed fresh-water fishes of which the blackfish of Alaska (Dallia pectoralis) is the type.",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xenopterygii": {
+        "dcitionaryWordId": "683365ec2cc2e9f9ae",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781075ec2cc2e9f9c8",
+                "dictionaryMeaningText": "A suborder of fishes including Gobiesox and allied genera. These fishes have soft-rayed fins, and a ventral sucker supported in front by the pectoral fins. They are destitute of scales.",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xenotime": {
+        "dcitionaryWordId": "683365ec2cc2e9f9d5",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781085ec2cc2e9f9fe",
+                "dictionaryMeaningText": "A native phosphate of yttrium occurring in yellowish-brown tetragonal crystals.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenurine": {
+        "dcitionaryWordId": "683365ec2cc2e9fa0a",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781095ec2cc2e9fa32",
+                "dictionaryMeaningText": "A cabassou.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenyl": {
+        "dcitionaryWordId": "683365ec2cc2e9fa41",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781105ec2cc2e9fa71",
+                "dictionaryMeaningText": "The radical characteristic of xenylic compounds.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xenylic": {
+        "dcitionaryWordId": "683365ec2cc2e9fa7e",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781115ec2cc2e9faa9",
+                "dictionaryMeaningText": "Pertaining to, derived from, designating, certain amido compounds obtained by reducing certain nitro derivatives of diphenyl.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xeraphim": {
+        "dcitionaryWordId": "683365ec2cc2e9fab6",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781125ec2cc2e9fadc",
+                "dictionaryMeaningText": "An old money of account in Bombay, equal to three fifths of a rupee.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xeres": {
+        "dcitionaryWordId": "683365ec2cc2e9fae9",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781135ec2cc2e9fb13",
+                "dictionaryMeaningText": "Sherry. See Sherry.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xerif": {
+        "dcitionaryWordId": "683365ec2cc2e9fb1f",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781145ec2cc2e9fb48",
+                "dictionaryMeaningText": "A shereef.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xeriff": {
+        "dcitionaryWordId": "683365ec2cc2e9fb54",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781155ec2cc2e9fb7f",
+                "dictionaryMeaningText": "A gold coin formerly current in Egypt and Turkey, of the value of about 9s. 6d., or about $2.30; -- also, in Morocco, a ducat.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xeroderma": {
+        "dcitionaryWordId": "683365ec2cc2e9fbbc",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781165ec2cc2e9fbaf",
+                "dictionaryMeaningText": "Ichthyosis.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781175ec2cc2e9fbe4",
+                "dictionaryMeaningText": "A skin disease characterized by the presence of numerous small pigmented spots resembling freckles, with which are subsequently mingled spots of atrophied skin.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xeronate": {
+        "dcitionaryWordId": "683375ec2cc2e9fbf1",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781185ec2cc2e9fc19",
+                "dictionaryMeaningText": "A salt of xeronic acid.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xeronic": {
+        "dcitionaryWordId": "683375ec2cc2e9fc25",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781195ec2cc2e9fc50",
+                "dictionaryMeaningText": "Pertaining to, or designating, an acid, C8H12O4, related to fumaric acid, and obtained from citraconic acid as an oily substance having a bittersweet taste; -- so called from its tendency to form its anhydride.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xerophagy": {
+        "dcitionaryWordId": "683375ec2cc2e9fc5c",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781205ec2cc2e9fc80",
+                "dictionaryMeaningText": "Among the primitive Christians, the living on a diet of dry food in Lent and on other fasts.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xerophilous": {
+        "dcitionaryWordId": "683375ec2cc2e9fc8d",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781215ec2cc2e9fcaa",
+                "dictionaryMeaningText": "Drought-loving; able withstand the absence or lack of moisture.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xerophthalmia": {
+        "dcitionaryWordId": "683375ec2cc2e9fcb7",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781225ec2cc2e9fccf",
+                "dictionaryMeaningText": "An abnormal dryness of the eyeball produced usually by long-continued inflammation and subsequent atrophy of the conjunctiva.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xerophthalmy": {
+        "dcitionaryWordId": "683375ec2cc2e9fcdc",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781235ec2cc2e9fcf6",
+                "dictionaryMeaningText": "Xerophthalmia.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xiphias": {
+        "dcitionaryWordId": "683385ec2cc2e9fd72",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781245ec2cc2e9fd2f",
+                "dictionaryMeaningText": "A genus of fishes comprising the common swordfish.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781255ec2cc2e9fd65",
+                "dictionaryMeaningText": "The constellation Dorado.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781265ec2cc2e9fd9a",
+                "dictionaryMeaningText": "A comet shaped like a sword",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xiphidium": {
+        "dcitionaryWordId": "683395ec2cc2e9fda7",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781275ec2cc2e9fdcc",
+                "dictionaryMeaningText": "A genus of plants of the order Haemodraceae, having two-ranked, sword-shaped leaves.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xiphioid": {
+        "dcitionaryWordId": "683395ec2cc2e9fdd9",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781285ec2cc2e9fe02",
+                "dictionaryMeaningText": "Of, pertaining to, or resembling, a cetacean of the genus Xiphius or family Xiphiidae.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xiphiplastra": {
+        "dcitionaryWordId": "683395ec2cc2e9fe0f",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781295ec2cc2e9fe29",
+                "dictionaryMeaningText": "of Xiphiplastron",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xiphiplastron": {
+        "dcitionaryWordId": "683395ec2cc2e9fe36",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781305ec2cc2e9fe4e",
+                "dictionaryMeaningText": "The posterior, or fourth, lateral plate in the plastron of turtles; -- called also xiphisternum.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xiphisterna": {
+        "dcitionaryWordId": "683395ec2cc2e9fe5c",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781315ec2cc2e9fe78",
+                "dictionaryMeaningText": "of Xiphisternum",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xiphisternum": {
+        "dcitionaryWordId": "683395ec2cc2e9feab",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781325ec2cc2e9fe9e",
+                "dictionaryMeaningText": "The posterior segment, or extremity, of the sternum; -- sometimes called metasternum, ensiform cartilage, ensiform process, or xiphoid process.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781335ec2cc2e9fec4",
+                "dictionaryMeaningText": "The xiphiplastron.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xiphius": {
+        "dcitionaryWordId": "683405ec2cc2e9fed0",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781345ec2cc2e9fefa",
+                "dictionaryMeaningText": "A genus of cetaceans having a long, pointed, bony beak, usually two tusklike teeth in the lower jaw, but no teeth in the upper jaw.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xiphodon": {
+        "dcitionaryWordId": "683405ec2cc2e9ff06",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781355ec2cc2e9ff2d",
+                "dictionaryMeaningText": "An extinct genus of artiodactylous mammals found in the European Tertiary formations. It had slender legs, didactylous feet, and small canine teeth.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xiphoid": {
+        "dcitionaryWordId": "683405ec2cc2e9ff6f",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781365ec2cc2e9ff63",
+                "dictionaryMeaningText": "Like a sword; ensiform.",
+                "wordType": "Adjective"
+            },
+            {
+                "dictionaryWordMeaningId": "1781375ec2cc2e9ff97",
+                "dictionaryMeaningText": "Of or pertaining to the xiphoid process; xiphoidian.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xiphoidian": {
+        "dcitionaryWordId": "683415ec2cc2e9ffa4",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781385ec2cc2e9ffc9",
+                "dictionaryMeaningText": "Xiphoid.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xiphophyllous": {
+        "dcitionaryWordId": "683415ec2cc2e9ffd5",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781395ec2cc2e9ffee",
+                "dictionaryMeaningText": "Having sword-shaped leaves.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xiphosura": {
+        "dcitionaryWordId": "683415ec2cc2e9fffa",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781405ec2cc2ea001f",
+                "dictionaryMeaningText": "See Xiphura.",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xiphura": {
+        "dcitionaryWordId": "683415ec2cc2ea002b",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781415ec2cc2ea0055",
+                "dictionaryMeaningText": "Same as Limuloidea. Called also Xiphosura.",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xylamide": {
+        "dcitionaryWordId": "683415ec2cc2ea0062",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781425ec2cc2ea008b",
+                "dictionaryMeaningText": "An acid amide derivative of xylic acid, obtained as a white crystalline substance.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylanthrax": {
+        "dcitionaryWordId": "683415ec2cc2ea0098",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781435ec2cc2ea00b9",
+                "dictionaryMeaningText": "Wood coal, or charcoal; -- so called in distinction from mineral coal.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylate": {
+        "dcitionaryWordId": "683415ec2cc2ea00c6",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781445ec2cc2ea00f1",
+                "dictionaryMeaningText": "A salt of xylic acid.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylem": {
+        "dcitionaryWordId": "683415ec2cc2ea00fe",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781455ec2cc2ea0128",
+                "dictionaryMeaningText": "That portion of a fibrovascular bundle which has developed, or will develop, into wood cells; -- distinguished from phloem.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylene": {
+        "dcitionaryWordId": "683415ec2cc2ea0134",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781465ec2cc2ea017e",
+                "dictionaryMeaningText": "Any of a group of three metameric hydrocarbons of the aromatic series, found in coal and wood tar, and so named because found in crude wood spirit. They are colorless, oily, inflammable liquids, C6H4.(CH3)2, being dimethyl benzenes, and are called respectively orthoxylene, metaxylene, and paraxylene. Called also xylol.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylenol": {
+        "dcitionaryWordId": "683415ec2cc2ea0199",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781475ec2cc2ea01dc",
+                "dictionaryMeaningText": "Any one of six metameric phenol derivatives of xylene, obtained as crystalline substances, (CH3)2.C6H3.OH.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xyletic": {
+        "dcitionaryWordId": "683415ec2cc2ea01f5",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781485ec2cc2ea023b",
+                "dictionaryMeaningText": "Pertaining to, or designating, a complex acid related to mesitylenic acid, obtained as a white crystalline substance by the action of sodium and carbon dioxide on crude xylenol.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylic": {
+        "dcitionaryWordId": "683415ec2cc2ea0253",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781495ec2cc2ea0290",
+                "dictionaryMeaningText": "Pertaining to, derived from, or related to, xylene; specifically, designating any one of several metameric acids produced by the partial oxidation of mesitylene and pseudo-cumene.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylidic": {
+        "dcitionaryWordId": "683415ec2cc2ea02a6",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781505ec2cc2ea02e2",
+                "dictionaryMeaningText": "Pertaining to, or designating, either one of two distinct acids which are derived from xylic acid and related compounds, and are metameric with uvitic acid.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylidine": {
+        "dcitionaryWordId": "683415ec2cc2ea02f9",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781515ec2cc2ea0335",
+                "dictionaryMeaningText": "Any one of six metameric hydrocarbons, (CH3)2.C6H3.NH2, resembling aniline, and related to xylene. They are liquids, or easily fusible crystalline substances, of which three are derived from metaxylene, two from orthoxylene, and one from paraxylene. They are called the amido xylenes.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylindein": {
+        "dcitionaryWordId": "683415ec2cc2ea034c",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781525ec2cc2ea0388",
+                "dictionaryMeaningText": "A green or blue pigment produced by Peziza in certain kinds of decayed wood, as the beech, oak, birch, etc., and extracted as an amorphous powder resembling indigo.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylite": {
+        "dcitionaryWordId": "683415ec2cc2ea03b3",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781535ec2cc2ea0400",
+                "dictionaryMeaningText": "A liquid hydrocarbon found in crude wood spirits.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylitone": {
+        "dcitionaryWordId": "683415ec2cc2ea0424",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781545ec2cc2ea0461",
+                "dictionaryMeaningText": "A yellow oil having a geraniumlike odor, produced as a side product in making phorone; -- called also xylite oil.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylo-": {
+        "dcitionaryWordId": "683415ec2cc2ea0471",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781555ec2cc2ea049e",
+                "dictionaryMeaningText": "A combining form from Gr. xy`lon wood; as in xylogen, xylograph.",
+                "wordType": "Undefined"
+            }
+        ]
+    },
+    "xylobalsamum": {
+        "dcitionaryWordId": "683415ec2cc2ea04ab",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781565ec2cc2ea04c6",
+                "dictionaryMeaningText": "The dried twigs of a Syrian tree (Balsamodendron Gileadense).",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylocarpous": {
+        "dcitionaryWordId": "683415ec2cc2ea04d5",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781575ec2cc2ea04f2",
+                "dictionaryMeaningText": "Bearing fruit which becomes hard or woody.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylocopa": {
+        "dcitionaryWordId": "683415ec2cc2ea0500",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781585ec2cc2ea0528",
+                "dictionaryMeaningText": "A genus of hymenopterous insects including the carpenter. See Carpenter bee, under Carpenter.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylogen": {
+        "dcitionaryWordId": "683415ec2cc2ea056b",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781595ec2cc2ea055e",
+                "dictionaryMeaningText": "Nascent wood; wood cells in a forming state.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781605ec2cc2ea0593",
+                "dictionaryMeaningText": "Lignin.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylograph": {
+        "dcitionaryWordId": "683425ec2cc2ea05a0",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781615ec2cc2ea05c4",
+                "dictionaryMeaningText": "An engraving on wood, or the impression from such an engraving; a print by xylography.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylographer": {
+        "dcitionaryWordId": "683425ec2cc2ea05d1",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781625ec2cc2ea05ee",
+                "dictionaryMeaningText": "One who practices xylography.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylographic": {
+        "dcitionaryWordId": "683425ec2cc2ea05fb",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781635ec2cc2ea0618",
+                "dictionaryMeaningText": "Alt. of Xylographical",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylographical": {
+        "dcitionaryWordId": "683425ec2cc2ea0625",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781645ec2cc2ea063d",
+                "dictionaryMeaningText": "Of or pertaining to xylography, or wood engraving.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylography": {
+        "dcitionaryWordId": "683435ec2cc2ea06a4",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781655ec2cc2ea066a",
+                "dictionaryMeaningText": "The art of engraving on wood.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781665ec2cc2ea0697",
+                "dictionaryMeaningText": "The art of making prints from the natural grain of wood.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781675ec2cc2ea06c3",
+                "dictionaryMeaningText": "A method pf printing in colors upon wood for purposes of house decoration.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xyloid": {
+        "dcitionaryWordId": "683445ec2cc2ea06cf",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781685ec2cc2ea06fb",
+                "dictionaryMeaningText": "Resembling wood; having the nature of wood.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xyloidin": {
+        "dcitionaryWordId": "683445ec2cc2ea0708",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781695ec2cc2ea0730",
+                "dictionaryMeaningText": "A substance resembling pyroxylin, obtained by the action of nitric acid on starch; -- called also nitramidin.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylol": {
+        "dcitionaryWordId": "683445ec2cc2ea073d",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781705ec2cc2ea0767",
+                "dictionaryMeaningText": "Same as Xylene.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylonite": {
+        "dcitionaryWordId": "683445ec2cc2ea0773",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781715ec2cc2ea07b3",
+                "dictionaryMeaningText": "See Zylonite.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylophaga": {
+        "dcitionaryWordId": "683445ec2cc2ea07cb",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781725ec2cc2ea083f",
+                "dictionaryMeaningText": "A genus of marine bivalves which bore holes in wood. They are allied to Pholas.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylophagan": {
+        "dcitionaryWordId": "683455ec2cc2ea08d6",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781735ec2cc2ea0894",
+                "dictionaryMeaningText": "One of a tribe of beetles whose larvae bore or live in wood.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781745ec2cc2ea08c8",
+                "dictionaryMeaningText": "Any species of Xylophaga.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781755ec2cc2ea08f5",
+                "dictionaryMeaningText": "Any one of the Xylophagides.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylophagides": {
+        "dcitionaryWordId": "683465ec2cc2ea0902",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781765ec2cc2ea0936",
+                "dictionaryMeaningText": "A tribe or family of dipterous flies whose larvae live in decayed wood. Some of the tropical species are very large.",
+                "wordType": "Plural"
+            }
+        ]
+    },
+    "xylophagous": {
+        "dcitionaryWordId": "683465ec2cc2ea096b",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781775ec2cc2ea095f",
+                "dictionaryMeaningText": "Eating, boring in, or destroying, wood; -- said especially of certain insect larvae, crustaceans, and mollusks.",
+                "wordType": "Adjective"
+            },
+            {
+                "dictionaryWordMeaningId": "1781785ec2cc2ea0986",
+                "dictionaryMeaningText": "Of or pertaining to the genus Xylophaga.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylophilan": {
+        "dcitionaryWordId": "683475ec2cc2ea0992",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781795ec2cc2ea09b1",
+                "dictionaryMeaningText": "One of a tribe of beetles (Xylophili) whose larvae live on decayed wood.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylophilous": {
+        "dcitionaryWordId": "683475ec2cc2ea09bd",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781805ec2cc2ea09d8",
+                "dictionaryMeaningText": "Of or pertaining to the xylophilans.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylophone": {
+        "dcitionaryWordId": "683475ec2cc2ea0a14",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781815ec2cc2ea0a08",
+                "dictionaryMeaningText": "An instrument common among the Russians, Poles, and Tartars, consisting of a series of strips of wood or glass graduated in length to the musical scale, resting on belts of straw, and struck with two small hammers. Called in Germany strohfiedel, or straw fiddle.",
+                "wordType": "Noun"
+            },
+            {
+                "dictionaryWordMeaningId": "1781825ec2cc2ea0a36",
+                "dictionaryMeaningText": "An instrument to determine the vibrative properties of different kinds of wood.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xyloplastic": {
+        "dcitionaryWordId": "683485ec2cc2ea0a44",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781835ec2cc2ea0a60",
+                "dictionaryMeaningText": "Formed of wood pulp by molds; relating to casts made of wood pulp in molds.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xylopyrography": {
+        "dcitionaryWordId": "683485ec2cc2ea0a6d",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781845ec2cc2ea0a84",
+                "dictionaryMeaningText": "The art or practice of burning pictures on wood with a hot iron; -- called also poker painting. See Poker picture, under Poker.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xyloquinone": {
+        "dcitionaryWordId": "683485ec2cc2ea0a90",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781855ec2cc2ea0aad",
+                "dictionaryMeaningText": "Any one of a group of quinone compounds obtained respectively by the oxidation of certain xylidine compounds. In general they are yellow crystalline substances.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylorcin": {
+        "dcitionaryWordId": "683485ec2cc2ea0aba",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781865ec2cc2ea0ae1",
+                "dictionaryMeaningText": "A derivative of xylene obtained as a white crystalline substance which on exposure in the air becomes red; -- called also betaorcin.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylostein": {
+        "dcitionaryWordId": "683485ec2cc2ea0aed",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781875ec2cc2ea0b12",
+                "dictionaryMeaningText": "A glucoside found in the poisonous berries of a species of honeysuckle (Lonicera xylosteum), and extracted as a bitter, white, crystalline substance.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylotile": {
+        "dcitionaryWordId": "683485ec2cc2ea0b1f",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781885ec2cc2ea0b47",
+                "dictionaryMeaningText": "Same as Parkesine.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylotrya": {
+        "dcitionaryWordId": "683485ec2cc2ea0b54",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781895ec2cc2ea0b7e",
+                "dictionaryMeaningText": "A genus of marine bivalves closely allied to Teredo, and equally destructive to timber. One species (Xylotrya fimbriata) is very common on the Atlantic coast of the United States.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylyl": {
+        "dcitionaryWordId": "683485ec2cc2ea0b8a",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781905ec2cc2ea0bb3",
+                "dictionaryMeaningText": "Any one of three metameric radicals which are characteristic respectively of the three xylenes.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xylylene": {
+        "dcitionaryWordId": "683485ec2cc2ea0bc0",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781915ec2cc2ea0be5",
+                "dictionaryMeaningText": "Any one of three metameric radicals, CH2.C6H4.CH2, derived respectively from the three xylenes. Often used adjectively; as, xylylene alcohol.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xyridaceous": {
+        "dcitionaryWordId": "683485ec2cc2ea0bf2",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781925ec2cc2ea0c0d",
+                "dictionaryMeaningText": "Of or pertaining to a natural order (Xyrideae) of endogenous plants, of which Xyris is the type.",
+                "wordType": "Adjective"
+            }
+        ]
+    },
+    "xyris": {
+        "dcitionaryWordId": "683485ec2cc2ea0c19",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781935ec2cc2ea0c42",
+                "dictionaryMeaningText": "A genus of endogenous herbs with grassy leaves and small yellow flowers in short, scaly-bracted spikes; yellow-eyed grass. There are about seventeen species in the Atlantic United States.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xyst": {
+        "dcitionaryWordId": "683485ec2cc2ea0c4e",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781945ec2cc2ea0c73",
+                "dictionaryMeaningText": "Alt. of Xystus",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xystus": {
+        "dcitionaryWordId": "683485ec2cc2ea0c80",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781955ec2cc2ea0cab",
+                "dictionaryMeaningText": "A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xystarch": {
+        "dcitionaryWordId": "683485ec2cc2ea0cb7",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781965ec2cc2ea0cde",
+                "dictionaryMeaningText": "An office\/ having the superintendence of the xyst.",
+                "wordType": "Noun"
+            }
+        ]
+    },
+    "xyster": {
+        "dcitionaryWordId": "683485ec2cc2ea0cea",
+        "wordEnglishLevel": "AdvancedEnglishLevel",
+        "dictionaryWordMeanings": [
+            {
+                "dictionaryWordMeaningId": "1781975ec2cc2ea0d16",
+                "dictionaryMeaningText": "An instrument for scraping bones.",
+                "wordType": "Noun"
+            }
+        ]
+    }
+}
